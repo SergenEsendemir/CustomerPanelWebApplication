@@ -82,7 +82,7 @@ To run this project locally, make sure you have:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/SergenEsendemir/MusteriPaneliUygulamasiWeb.git
+git clone https://github.com/SergenEsendemir/CustomerPanelWebApplication.git
 ```
 
 ### 2. Open the solution
