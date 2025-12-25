@@ -1,4 +1,4 @@
-# Musteri Paneli Uygulamasi (Web)
+# Customer Panel Web Application
 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-blue)
 ![CSharp](https://img.shields.io/badge/C%23-.NET-green)
